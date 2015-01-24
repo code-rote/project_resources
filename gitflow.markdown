@@ -1,4 +1,17 @@
-# here is the README
+# Initial Project Setup
+1. Create repo on Github
+2. Clone repo to local machine
+3. Make the dev branch (local)
+4. Checkout the dev branch (local)
+5. Push the dev branch to GitHub (local)
+
+```
+  git push -u origin dev
+```
+NOTE: Now you have `master` and `dev` on GitHub
+
+# New Branch
+
 git add README.md
 git commit -m "Angelo"
 

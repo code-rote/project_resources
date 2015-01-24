@@ -8,6 +8,8 @@
   * SingleTableInheritence (STI) - like polymorphic instead using single table.
 <hr>
 
+# HERE IS A CHANGE...
+
 # Software Development Life Cycle (SDLC) Resources
 ### Source Code Control
   > [GitHub Flow on Trello](https://trello.com/b/Mm1rEv91/git)

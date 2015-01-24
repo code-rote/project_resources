@@ -26,7 +26,14 @@
 
 > Getting Started with RSpec
   * [RSpec Quickstart Guide](/tutorials/Rails_Tutorials_RSpec_Quickstart_Guide.pdf)
+  rspec-rails (https://github.com/rspec/rspec-rails) – installs RSpec gems with support for Rails
+* [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) – creates test data 
+* [capybara] (https://github.com/jnicklas/capybara) – tests web pages
+* [database_cleaner] (https://github.com/bmabey/database_cleaner) – a clean slate for databases
+* [launchy] (https://github.com/copiousfreetime/launchy) – view errors in your web browser 
+* [selenium-webdriver] (http://docs.seleniumhq.org/projects/webdriver/) – for tests that require JavaScript
 
+> [Capybara Docs](http://rubydoc.info/github/jnicklas/capybara/master)
 > RSpec's Feature Spec
   * [How we write readable feature tests with RSpec](https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/)
   * [Feature Spec](https://relishapp.com/rspec/rspec-rails/v/3-0/docs/feature-specs/feature-spec)

@@ -2,6 +2,11 @@
 
 
 
+SELF JOINS (comments on comments)
+get it to colorize code
+setup being able to hightlight a single line...highlight js
+Versioning Models (Scores)
+SingleTableInheritence (STI) - like polymorphic instead using single table.
 
 ## Front-end Framework
 > [Foundation 5](http://foundation.zurb.com/)
@@ -20,6 +25,12 @@
   >* [Resources - Roboto & Noto fonts](http://www.google.com/design/spec/resources/roboto-noto-fonts.html)
 
 
+## Syntax Highlighting
+> [highlightJS](https://highlightjs.org/)
+> [PrismJS](http://prismjs.com/)
+
+## Cloud IDE
+> [Cloud9]()
 
 
 

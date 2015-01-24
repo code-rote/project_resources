@@ -1,4 +1,4 @@
-# Night of Epiphany
+# Project Planning
   >**Division of Labor**
   > * Trello board management
   > * Github management

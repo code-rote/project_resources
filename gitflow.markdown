@@ -47,7 +47,7 @@
     git branch -l
   ```
 
-  Step 3. If you see dev, switch to dev branch
+  Step 3. Make sure you are on the `dev` branch
   ```
     git checkout dev
   ```
@@ -71,7 +71,13 @@
   Step 3. Do some work... Usually on files/folders that already exist. 
   > __DO NOT FORGET TO COMMIT EARLY AND OFTEN__.
 
+most of the time you do not have to add any additional files, you are simply modifying or changing an existing file. Therefore you can simply commit.
 
+FLESH
+
+NOTES ON VIM
+
+if you forget to add the message and press return after `git commit -m` then you will enter your default bash editor (usually VIM). To return to the regular terminal you will press `:q` and `enter`.
 
 #### Adding Files and/or Folders to Version Control.
 > Do: add files and/or folder one at a time. Do not use `git add . -A`

@@ -58,6 +58,13 @@
 >* [Components](http://www.google.com/design/spec/components/bottom-sheets.html)
 >* [Resources - Roboto & Noto fonts](http://www.google.com/design/spec/resources/roboto-noto-fonts.html)
 
+## Front-end Targeted Platforms
+>* Macbook Pro Retina 13" - 
+MacBook Pro (Retina, 13-inch, Late 2012 and later) displays have a 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors.
+
+>* Macbook Pro 13" (non-retina)
+
+
 ### Front-end Framework
   Requirements for front-end framework
   

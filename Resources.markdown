@@ -1,5 +1,8 @@
 # Project Resources
 
+### WORKING RESOURCES
+> [User Stories and Scenarios Google Doc](https://docs.google.com/spreadsheets/d/1Bv6bIiO8oW7QGTOXsY0G7ghfAOOCWqzF0Leie396Y9A)
+
 ### TO LEARN
   * SELF JOINS (comments on comments)
   * get it to colorize code
